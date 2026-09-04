@@ -42,7 +42,7 @@ py python/find_outlier.py
 ```
 
 Compile and run C solutions:
-```
+```bash
 gcc c/solution_name.c -o solution
 ./solution
 ```
