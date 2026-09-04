@@ -32,3 +32,17 @@ Clone the repository:
 ```bash
 git clone https://github.com/Altay-Aksoy/algorithm-practice.git
 cd algorithm-practice
+```
+
+Run any Python solution:
+```bash
+py python/palindrome_checker.py
+py python/anagram_checker.py
+py python/find_outlier.py
+```
+
+Compile and run C solutions:
+```
+gcc c/solution_name.c -o solution
+./solution
+```
