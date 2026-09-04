@@ -23,6 +23,7 @@ A curated collection of algorithm implementations, data structures, and competit
 | 1 | Palindrome Checker | Python | [palindrome_checker.py](./python/palindrome_checker.py) | LeetCode (Easy) |
 | 2 | Anagram Checker | Python | [anagram_checker.py](./python/anagram_checker.py) | LeetCode (Easy) |
 | 3 | Find The Parity Outlier | Python | [find_outlier.py](./python/find_outlier.py) | Codewars (6 kyu) |
+| 4 | Pete, the baker | Python | [pete_the_baker.py](./python/pete_the_baker.py) | Codewars (5 kyu) |
 
 ---
 
@@ -39,6 +40,7 @@ Run any Python solution:
 py python/palindrome_checker.py
 py python/anagram_checker.py
 py python/find_outlier.py
+py python/the_baker.py
 ```
 
 Compile and run C solutions:
