@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-Solutions-A8B9CC?style=flat&logo=c&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/Altay-Aksoy/algorithm_practice)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/Altay Aksoy/algorithm_practice)
 
 A curated collection of algorithm implementations, data structures, and competitive programming solutions in Python and C.
 
