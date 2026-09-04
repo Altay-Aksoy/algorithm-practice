@@ -24,6 +24,7 @@ A curated collection of algorithm implementations, data structures, and competit
 | 2 | Anagram Checker | Python | [anagram_checker.py](./python/anagram_checker.py) | LeetCode (Easy) |
 | 3 | Find The Parity Outlier | Python | [find_outlier.py](./python/find_outlier.py) | Codewars (6 kyu) |
 | 4 | Pete, the baker | Python | [pete_the_baker.py](./python/pete_the_baker.py) | Codewars (5 kyu) |
+| 5 | Product of Consecutive Fib Numbers | Python | [product_fib.py](./python/product_fib.py) | Codewars (5 kyu) |
 
 ---
 
@@ -41,6 +42,7 @@ py python/palindrome_checker.py
 py python/anagram_checker.py
 py python/find_outlier.py
 py python/the_baker.py
+py python/sum_of_consecutive_fib.py
 ```
 
 Compile and run C solutions:
