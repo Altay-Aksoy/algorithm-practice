@@ -22,7 +22,7 @@ A curated collection of algorithm implementations, data structures, and competit
 |---|---------|----------|----------|
 | 1 | Palindrome Checker | Python | [palindrome_checker.py](./python/palindrome_checker.py) |
 | 2 | Anagram Checker | Python | [anagram_checker.py](./python/anagram_checker.py) |
-
+| 3 | Find The Parity Outlier | Python | [find_outlier.py](./python/find_outlier.py) |
 
 ---
 
