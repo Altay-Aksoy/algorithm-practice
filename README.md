@@ -46,6 +46,7 @@ py python/find_outlier.py
 py python/pete_the_baker.py
 py python/product_fib.py
 py python/first_non_repeating_letter.py
+py python/perimeter_of_squares.py
 ```
 
 Compile and run C solutions:
