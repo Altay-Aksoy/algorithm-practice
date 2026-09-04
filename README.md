@@ -16,6 +16,8 @@ A curated collection of algorithm implementations, data structures, and competit
 | # | Problem | Language | Solution |
 |---|---------|----------|----------|
 | 1 | Palindrome Checker | Python | [palindrome_checker.py](./python/palindrome_checker.py) |
+| 2 | Anagram Checker | Python | [anagram_checker.py](./python/anagram_checker.py) |
+
 
 ---
 
