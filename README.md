@@ -25,6 +25,7 @@ A curated collection of algorithm implementations, data structures, and competit
 | 3 | Find The Parity Outlier | Python | [find_outlier.py](./python/find_outlier.py) | Codewars (6 kyu) |
 | 4 | Pete, the baker | Python | [pete_the_baker.py](./python/pete_the_baker.py) | Codewars (5 kyu) |
 | 5 | Product of Consecutive Fib Numbers | Python | [product_fib.py](./python/product_fib.py) | Codewars (5 kyu) |
+| 6 | First Non-Repeating Character | Python | [first_non_repeating_letter.py](./python/first_non_repeating_letter.py) | Codewars (5 kyu) |
 
 ---
 
