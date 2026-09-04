@@ -26,6 +26,7 @@ A curated collection of algorithm implementations, data structures, and competit
 | 4 | Pete, the baker | Python | [pete_the_baker.py](./python/pete_the_baker.py) | Codewars (5 kyu) |
 | 5 | Product of Consecutive Fib Numbers | Python | [product_fib.py](./python/product_fib.py) | Codewars (5 kyu) |
 | 6 | First Non-Repeating Character | Python | [first_non_repeating_letter.py](./python/first_non_repeating_letter.py) | Codewars (5 kyu) |
+| 7 | Perimeter of Squares in a Rectangle | Python | [perimeter_of_squares.py](./python/perimeter_of_squares.py) | Codewars (5 kyu) |
 
 ---
 
@@ -42,8 +43,9 @@ Run any Python solution:
 py python/palindrome_checker.py
 py python/anagram_checker.py
 py python/find_outlier.py
-py python/the_baker.py
-py python/sum_of_consecutive_fib.py
+py python/pete_the_baker.py
+py python/product_fib.py
+py python/first_non_repeating_letter.py
 ```
 
 Compile and run C solutions:
