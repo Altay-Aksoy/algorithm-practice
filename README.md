@@ -18,17 +18,17 @@ A curated collection of algorithm implementations, data structures, and competit
 
 ### 📝 Solutions
 
-| # | Problem | Language | Solution |
-|---|---------|----------|----------|
-| 1 | Palindrome Checker | Python | [palindrome_checker.py](./python/palindrome_checker.py) |
-| 2 | Anagram Checker | Python | [anagram_checker.py](./python/anagram_checker.py) |
-| 3 | Find The Parity Outlier | Python | [find_outlier.py](./python/find_outlier.py) |
+| # | Problem | Language | Solution | Source / Difficulty |
+|---|---------|----------|----------|---------------------|
+| 1 | Palindrome Checker | Python | [palindrome_checker.py](./python/palindrome_checker.py) | LeetCode (Easy) |
+| 2 | Anagram Checker | Python | [anagram_checker.py](./python/anagram_checker.py) | LeetCode (Easy) |
+| 3 | Find The Parity Outlier | Python | [find_outlier.py](./python/find_outlier.py) | Codewars (6 kyu) |
 
 ---
 
 ### 🚀 Running Locally
 
-Clone the repository and run any solution directly:
-
+Clone the repository:
 ```bash
-python python/palindrome_checker.py
+git clone [https://github.com/Altay-Aksoy/algorithm-practice.git](https://github.com/Altay-Aksoy/algorithm-practice.git)
+cd algorithm-practice
