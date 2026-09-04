@@ -30,5 +30,5 @@ A curated collection of algorithm implementations, data structures, and competit
 
 Clone the repository:
 ```bash
-git clone [https://github.com/Altay-Aksoy/algorithm-practice.git](https://github.com/Altay-Aksoy/algorithm-practice.git)
+git clone https://github.com/Altay-Aksoy/algorithm-practice.git
 cd algorithm-practice
