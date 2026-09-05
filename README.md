@@ -27,6 +27,7 @@ A curated collection of algorithm implementations, data structures, and competit
 | 5 | Product of Consecutive Fib Numbers | Python | [product_fib.py](./python/product_fib.py) | Codewars (5 kyu) |
 | 6 | First Non-Repeating Character | Python | [first_non_repeating_letter.py](./python/first_non_repeating_letter.py) | Codewars (5 kyu) |
 | 7 | Perimeter of Squares in a Rectangle | Python | [perimeter_of_squares.py](./python/perimeter_of_squares.py) | Codewars (5 kyu) |
+| 8 | Integers: Recreation One | Python | [integers_recreation_one.py](./python/integers_recreation_one.py) | Codewars (5 kyu) |
 
 ---
 
@@ -47,6 +48,8 @@ py python/pete_the_baker.py
 py python/product_fib.py
 py python/first_non_repeating_letter.py
 py python/perimeter_of_squares.py
+py python/integers_recreation_one.py
+
 ```
 
 Compile and run C solutions:
