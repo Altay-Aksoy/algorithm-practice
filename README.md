@@ -29,6 +29,7 @@ A curated collection of algorithm implementations, data structures, and competit
 | 7 | Perimeter of Squares in a Rectangle | Python | [perimeter_of_squares.py](./python/perimeter_of_squares.py) | Codewars (5 kyu) |
 | 8 | Integers: Recreation One | Python | [integers_recreation_one.py](./python/integers_recreation_one.py) | Codewars (5 kyu) |
 | 9 | Count IP Addresses | Python | [ips_between.py](./python/ips_between.py) | Codewars (5 kyu) |
+| 10 | Range Extraction | Python | [range_extraction.py](./python/range_extraction.py) | Codewars (4 kyu) |
 
 ---
 
@@ -51,6 +52,7 @@ py python/first_non_repeating_letter.py
 py python/perimeter_of_squares.py
 py python/integers_recreation_one.py
 py python/ips_between.py
+py python/range_extraction.py
 
 ```
 
