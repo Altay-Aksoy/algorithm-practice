@@ -30,6 +30,7 @@ A curated collection of algorithm implementations, data structures, and competit
 | 8 | Integers: Recreation One | Python | [integers_recreation_one.py](./python/integers_recreation_one.py) | Codewars (5 kyu) |
 | 9 | Count IP Addresses | Python | [ips_between.py](./python/ips_between.py) | Codewars (5 kyu) |
 | 10 | Range Extraction | Python | [range_extraction.py](./python/range_extraction.py) | Codewars (4 kyu) |
+| 11 | Next Bigger Number With The Same Digits | Python | [next_bigger_number.py](./python/next_bigger_number.py) | Codewars (4 kyu) |
 
 ---
 
@@ -53,6 +54,7 @@ py python/perimeter_of_squares.py
 py python/integers_recreation_one.py
 py python/ips_between.py
 py python/range_extraction.py
+py python/next_bigger_number.py
 
 ```
 
