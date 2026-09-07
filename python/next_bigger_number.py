@@ -31,12 +31,12 @@ def next_bigger(number: int) -> int:
         last_group.reverse()
         x = last_group[0]
         last_group.sort()
-        lenght = len(last_group)
+        length = len(last_group)
 
-        for _ in range(len(last_group)):
+        for _ in range(length):
             reverse_list.pop(0)
 
-        for j in range(lenght):
+        for j in range(length):
             if last_group[j] > x:
                 x = last_group.pop(j)
                 last_group.sort()
