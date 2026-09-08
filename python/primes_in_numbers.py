@@ -31,7 +31,7 @@ Example: n = 86240 should return "(2**5)(5)(7**2)(11)"
 # Solution
 # ==============================================================================
 def prime_factors(number):
-    # Calculate the divisiors
+    # Calculate the divisors
     num = 2
     primes_dict = {}
     answer = ""
