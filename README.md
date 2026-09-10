@@ -34,6 +34,8 @@ A curated collection of algorithm implementations, data structures, and competit
 | 12 | Number of Trailing Zeros of N! | Python | [number_of_trailing_zeros.py](./python/number_of_trailing_zeros.py) | Codewars (5 kyu) |
 | 13 | Primes in Numbers | Python | [primes_in_numbers.py](./python/primes_in_numbers.py) | Codewars (5 kyu) |
 | 14 | What's a Perfect Power anyway? | Python | [whats_a_perfect_power_anyway.py](./python/whats_a_perfect_power_anyway.py) | Codewars (5 kyu) |
+| 15 | Calculating with Functions | Python | [calculating_with_functions.py](./python/calculating_with_functions.py) | Codewars (5 kyu) |
+
 ---
 
 ### 🚀 Running Locally
@@ -60,6 +62,7 @@ py python/next_bigger_number.py
 py python/number_of_trailing_zeros.py
 py python/primes_in_numbers.py
 py python/whats_a_perfect_power_anyway.py
+py python/calculating_with_functions.py
 
 ```
 
